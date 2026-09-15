@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Where Did I Put That?",
+      "hasCanvas": false,
+      "bodyTextLen": 208,
+      "bodyTextHash": "68f7b7bf2ddafa43d152115992b9139fad3a9b41ad3ca7407c897044ad81e0b3",
+      "bodyTextPrefix": "Where Did I Put That? Places Where is it? A memory for the thing",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Where Did I Put That?",
+      "hasCanvas": false,
+      "bodyTextLen": 1210,
+      "bodyTextHash": "53d92b7aa40a71a98f4588562dcfebfc3dbbed6abb9cd77eb467926ca517712a",
+      "bodyTextPrefix": "Where Did I Put That? Places Where is it? A memory for the thing",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
